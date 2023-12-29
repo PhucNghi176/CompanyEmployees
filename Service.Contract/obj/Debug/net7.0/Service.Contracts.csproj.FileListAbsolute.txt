@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\bin\Debug\net7.0\Service.Contracts.deps.json
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\bin\Debug\net7.0\Service.Contracts.dll
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\bin\Debug\net7.0\Service.Contracts.pdb
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\obj\Debug\net7.0\Service.Contracts.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\obj\Debug\net7.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\obj\Debug\net7.0\Service.Contracts.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\obj\Debug\net7.0\Service.Contracts.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\obj\Debug\net7.0\Service.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\obj\Debug\net7.0\Service.Contracts.csproj.CopyComplete
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\obj\Debug\net7.0\Service.Contracts.dll
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\obj\Debug\net7.0\refint\Service.Contracts.dll
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\obj\Debug\net7.0\Service.Contracts.pdb
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\obj\Debug\net7.0\ref\Service.Contracts.dll
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\bin\Debug\net7.0\Entities.dll
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Service.Contract\bin\Debug\net7.0\Entities.pdb

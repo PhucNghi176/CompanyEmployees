@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Repositories\bin\Debug\net7.0\Repositoriy.deps.json
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Repositories\bin\Debug\net7.0\Repositoriy.dll
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Repositories\bin\Debug\net7.0\Repositoriy.pdb
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Repositories\obj\Debug\net7.0\Repositoriy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Repositories\obj\Debug\net7.0\Repositoriy.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Repositories\obj\Debug\net7.0\Repositoriy.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Repositories\obj\Debug\net7.0\Repositoriy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Repositories\obj\Debug\net7.0\Repositoriy.dll
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Repositories\obj\Debug\net7.0\refint\Repositoriy.dll
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Repositories\obj\Debug\net7.0\Repositoriy.pdb
+C:\Users\Admin\Desktop\SWP\CompanyEmployees\Repositories\obj\Debug\net7.0\ref\Repositoriy.dll
